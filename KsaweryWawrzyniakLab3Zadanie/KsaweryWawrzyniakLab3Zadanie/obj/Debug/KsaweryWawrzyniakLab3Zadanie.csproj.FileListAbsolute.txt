@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Ksawery\KsaweryWawrzyniakLab3Zadanie\KsaweryWawrzyniakLab3Zadanie\bin\Debug\KsaweryWawrzyniakLab3Zadanie.exe.config
+C:\Users\HP\Desktop\Ksawery\KsaweryWawrzyniakLab3Zadanie\KsaweryWawrzyniakLab3Zadanie\bin\Debug\KsaweryWawrzyniakLab3Zadanie.exe
+C:\Users\HP\Desktop\Ksawery\KsaweryWawrzyniakLab3Zadanie\KsaweryWawrzyniakLab3Zadanie\bin\Debug\KsaweryWawrzyniakLab3Zadanie.pdb
+C:\Users\HP\Desktop\Ksawery\KsaweryWawrzyniakLab3Zadanie\KsaweryWawrzyniakLab3Zadanie\obj\Debug\KsaweryWawrzyniakLab3Zadanie.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Ksawery\KsaweryWawrzyniakLab3Zadanie\KsaweryWawrzyniakLab3Zadanie\obj\Debug\KsaweryWawrzyniakLab3Zadanie.FormMain.resources
+C:\Users\HP\Desktop\Ksawery\KsaweryWawrzyniakLab3Zadanie\KsaweryWawrzyniakLab3Zadanie\obj\Debug\KsaweryWawrzyniakLab3Zadanie.FormPlay.resources
+C:\Users\HP\Desktop\Ksawery\KsaweryWawrzyniakLab3Zadanie\KsaweryWawrzyniakLab3Zadanie\obj\Debug\KsaweryWawrzyniakLab3Zadanie.Properties.Resources.resources
+C:\Users\HP\Desktop\Ksawery\KsaweryWawrzyniakLab3Zadanie\KsaweryWawrzyniakLab3Zadanie\obj\Debug\KsaweryWawrzyniakLab3Zadanie.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Ksawery\KsaweryWawrzyniakLab3Zadanie\KsaweryWawrzyniakLab3Zadanie\obj\Debug\KsaweryWawrzyniakLab3Zadanie.exe
+C:\Users\HP\Desktop\Ksawery\KsaweryWawrzyniakLab3Zadanie\KsaweryWawrzyniakLab3Zadanie\obj\Debug\KsaweryWawrzyniakLab3Zadanie.pdb
+C:\Users\HP\Desktop\Ksawery\KsaweryWawrzyniakLab3Zadanie\KsaweryWawrzyniakLab3Zadanie\obj\Debug\KsaweryWawrzyniakLab3Zadanie.FormRecords.resources
